@@ -1,4 +1,4 @@
-/** 영단어 숫자와, 숫자가 포함된 문자열을 문자열 숫자로 변환, 정수형 숫자로 return */
+/** 프로그래머스 Level 1 '숫자 문자열과 영단어' */
 class intEnglish {
 	public int solution(String s) {
 
